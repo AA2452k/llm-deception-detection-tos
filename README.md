@@ -1,5 +1,5 @@
 # Investigating how LLMs are trained and its impact on cybersecurity
-python tool assessing the Ability of Open-Source LLMs to Identify Deceptive  Clauses in Terms of Service Using Chain-of-Thought Prompting:  A Comprehensive Study
+Python tool assessing the Ability of Open-Source LLMs to Identify Deceptive  Clauses in Terms of Service Using Chain-of-Thought Prompting:  A Comprehensive Study
 
 
     ## Abstract
